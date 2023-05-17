@@ -1,3 +1,3 @@
 # MERN-Stock-Inventory-Website
 
-https://mern-stock-we-site.onrender.com/
+https://frontend.ssm.webapps.uplandsdynamic.com/
